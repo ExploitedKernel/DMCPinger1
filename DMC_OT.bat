@@ -1,9 +1,9 @@
 @echo off
 chcp 65001
-title DMC OT 
+title DMC Pinger
 mode 60,25
 color 4
-echo TIME TO BOOT SOME NIGGAS
+echo "NAZI TIME!!"
 set /p IP=ENTER THE JEWS IP: 
 :rainbow
 PING -n 1 %IP% | FIND "TTL="
